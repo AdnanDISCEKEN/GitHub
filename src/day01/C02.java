@@ -1,6 +1,10 @@
 package day01;
 
 public class C02 {
+    public static <String> void main(String[] args) {
+
+
+    }
     /*
     git.init komutu, bir workingDirectory'u git ile irtibatlandirir
              bu komut her proje icin sadece 1 kere calistirilir
@@ -31,4 +35,6 @@ public class C02 {
                   sonrasinda hic bir degisiklik yok
 
      */
+
+
 }
