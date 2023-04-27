@@ -2,6 +2,13 @@ package day01;
 
 public class C02 {
     public static <String> void main(String[] args) {
+// hocam siz bu projeyi ahmet hocadan clone yapmıssınız
+        //bunu nereye yollayacaksınız
+        //https://github.com/AdnanDISCEKEN/Github.git
+        // hocam bu projeye bir seyler yollanmis daha once
+        // o projeyi intellijden sildinizmi
+        // hayır bişey silmedim sadece git ekini sildim ahmet hocanın dedigi gibi
+        // masa üstüne yeni klasör oluşturup onu göndermeyi dener misiniz
 
 
     }
